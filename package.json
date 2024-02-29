@@ -1,0 +1,13 @@
+{
+  "name": "slack-bot",
+  "version": "0.0.1",
+  "description": "Slack Bot on Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "@slack/bolt": "^3.11.0"
+  }
+}
